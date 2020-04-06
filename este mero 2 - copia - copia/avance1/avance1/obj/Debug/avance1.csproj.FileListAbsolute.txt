@@ -1,0 +1,42 @@
+C:\Users\lobo1\Desktop\Escuela\Trabajos 2019A\Sem. de Algoritmia\avance1\avance1\obj\Debug\avance1.csprojResolveAssemblyReference.cache
+C:\Users\lobo1\Desktop\Escuela\Trabajos 2019A\Sem. de Algoritmia\avance1\avance1\obj\Debug\avance1.MainForm.resources
+C:\Users\lobo1\Desktop\Escuela\Trabajos 2019A\Sem. de Algoritmia\avance1\avance1\obj\Debug\avance1.csproj.GenerateResource.Cache
+C:\Users\lobo1\Desktop\Escuela\Trabajos 2019A\Sem. de Algoritmia\avance1\avance1\bin\Debug\avance1.exe
+C:\Users\lobo1\Desktop\Escuela\Trabajos 2019A\Sem. de Algoritmia\avance1\avance1\bin\Debug\avance1.pdb
+C:\Users\lobo1\Desktop\Escuela\Trabajos 2019A\Sem. de Algoritmia\avance1\avance1\obj\Debug\avance1.exe
+C:\Users\lobo1\Desktop\Escuela\Trabajos 2019A\Sem. de Algoritmia\avance1\avance1\obj\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\2-2\avance1\avance1\obj\Debug\avance1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Desktop\2-2\avance1\avance1\obj\Debug\avance1.MainForm.resources
+C:\Users\Rogger\Desktop\2-2\avance1\avance1\obj\Debug\avance1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Desktop\2-2\avance1\avance1\obj\Debug\avance1.exe
+C:\Users\Rogger\Desktop\2-2\avance1\avance1\bin\Debug\avance1.exe
+C:\Users\Rogger\Desktop\2-2\avance1\avance1\bin\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\2-2\avance1\avance1\obj\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\este mero\avance1\avance1\obj\Debug\avance1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Desktop\este mero\avance1\avance1\obj\Debug\avance1.MainForm.resources
+C:\Users\Rogger\Desktop\este mero\avance1\avance1\obj\Debug\avance1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Desktop\este mero\avance1\avance1\obj\Debug\avance1.exe
+C:\Users\Rogger\Desktop\este mero\avance1\avance1\bin\Debug\avance1.exe
+C:\Users\Rogger\Desktop\este mero\avance1\avance1\bin\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\este mero\avance1\avance1\obj\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\anaya\este mero\avance1\avance1\bin\Debug\avance1.exe
+C:\Users\Rogger\Desktop\anaya\este mero\avance1\avance1\bin\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\anaya\este mero\avance1\avance1\obj\Debug\avance1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Desktop\anaya\este mero\avance1\avance1\obj\Debug\avance1.MainForm.resources
+C:\Users\Rogger\Desktop\anaya\este mero\avance1\avance1\obj\Debug\avance1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Desktop\anaya\este mero\avance1\avance1\obj\Debug\avance1.exe
+C:\Users\Rogger\Desktop\anaya\este mero\avance1\avance1\obj\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2\avance1\avance1\bin\Debug\avance1.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2\avance1\avance1\bin\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2\avance1\avance1\obj\Debug\avance1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2\avance1\avance1\obj\Debug\avance1.MainForm.resources
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2\avance1\avance1\obj\Debug\avance1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2\avance1\avance1\obj\Debug\avance1.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2\avance1\avance1\obj\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2 - copia\avance1\avance1\obj\Debug\avance1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2 - copia\avance1\avance1\obj\Debug\avance1.MainForm.resources
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2 - copia\avance1\avance1\obj\Debug\avance1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2 - copia\avance1\avance1\obj\Debug\avance1.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2 - copia\avance1\avance1\bin\Debug\avance1.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2 - copia\avance1\avance1\bin\Debug\avance1.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\este mero 2 - copia\avance1\avance1\obj\Debug\avance1.pdb

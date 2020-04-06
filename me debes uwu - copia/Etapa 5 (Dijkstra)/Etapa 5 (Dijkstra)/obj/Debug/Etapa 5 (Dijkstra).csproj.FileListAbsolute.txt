@@ -1,0 +1,28 @@
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).exe.config
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).exe
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).pdb
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).csprojAssemblyReference.cache
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa_5__Dijkstra_.Form1.resources
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa_5__Dijkstra_.Properties.Resources.resources
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).csproj.GenerateResource.cache
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).csproj.CoreCompileInputs.cache
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).exe
+C:\Users\pdro6\OneDrive\Documentos\Universidad\Tercero\Sem. algo\Etapa 5\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).pdb
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).exe.config
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).exe
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).pdb
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).csprojAssemblyReference.cache
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa_5__Dijkstra_.Form1.resources
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa_5__Dijkstra_.Properties.Resources.resources
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).csproj.GenerateResource.cache
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).exe
+C:\Users\Rogger\Desktop\anomames si lo abriste\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).pdb
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).exe.config
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).exe
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\bin\Debug\Etapa 5 (Dijkstra).pdb
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).csprojAssemblyReference.cache
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa_5__Dijkstra_.Form1.resources
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa_5__Dijkstra_.Properties.Resources.resources
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).csproj.GenerateResource.cache
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).exe
+C:\Users\Rogger\Desktop\me debes uwu\Etapa 5 (Dijkstra)\Etapa 5 (Dijkstra)\obj\Debug\Etapa 5 (Dijkstra).pdb

@@ -1,0 +1,32 @@
+C:\Users\Rogger\Documents\SharpDevelop Projects\tarea1\tarea1\bin\Debug\tarea1.exe.config
+C:\Users\Rogger\Documents\SharpDevelop Projects\tarea1\tarea1\bin\Debug\tarea1.exe
+C:\Users\Rogger\Documents\SharpDevelop Projects\tarea1\tarea1\bin\Debug\tarea1.pdb
+C:\Users\Rogger\Documents\SharpDevelop Projects\tarea1\tarea1\obj\Debug\tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Documents\SharpDevelop Projects\tarea1\tarea1\obj\Debug\tarea1.MainForm.resources
+C:\Users\Rogger\Documents\SharpDevelop Projects\tarea1\tarea1\obj\Debug\tarea1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Documents\SharpDevelop Projects\tarea1\tarea1\obj\Debug\tarea1.exe
+C:\Users\Rogger\Documents\SharpDevelop Projects\tarea1\tarea1\obj\Debug\tarea1.pdb
+C:\Users\Rogger\Desktop\tarea1 - copia\bin\Debug\tarea1.exe.config
+C:\Users\Rogger\Desktop\tarea1 - copia\bin\Debug\tarea1.exe
+C:\Users\Rogger\Desktop\tarea1 - copia\bin\Debug\tarea1.pdb
+C:\Users\Rogger\Desktop\tarea1 - copia\obj\Debug\tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Desktop\tarea1 - copia\obj\Debug\tarea1.MainForm.resources
+C:\Users\Rogger\Desktop\tarea1 - copia\obj\Debug\tarea1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Desktop\tarea1 - copia\obj\Debug\tarea1.exe
+C:\Users\Rogger\Desktop\tarea1 - copia\obj\Debug\tarea1.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero\bin\Debug\tarea1.exe.config
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero\bin\Debug\tarea1.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero\bin\Debug\tarea1.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero\obj\Debug\tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero\obj\Debug\tarea1.MainForm.resources
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero\obj\Debug\tarea1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero\obj\Debug\tarea1.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero\obj\Debug\tarea1.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero - copia\bin\Debug\tarea1.exe.config
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero - copia\bin\Debug\tarea1.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero - copia\bin\Debug\tarea1.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero - copia\obj\Debug\tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero - copia\obj\Debug\tarea1.MainForm.resources
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero - copia\obj\Debug\tarea1.csproj.GenerateResource.Cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero - copia\obj\Debug\tarea1.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\1 este mero - copia\obj\Debug\tarea1.pdb

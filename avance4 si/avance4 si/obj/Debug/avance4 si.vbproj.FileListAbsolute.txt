@@ -1,0 +1,10 @@
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\bin\Debug\avance4 si.exe.config
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\bin\Debug\avance4 si.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\bin\Debug\avance4 si.pdb
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\bin\Debug\avance4 si.xml
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\obj\Debug\avance4 si.vbprojAssemblyReference.cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\obj\Debug\avance4_si.Resources.resources
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\obj\Debug\avance4 si.vbproj.GenerateResource.cache
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\obj\Debug\avance4 si.exe
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\obj\Debug\avance4 si.xml
+C:\Users\Rogger\Desktop\escuela\6to\anaya\avance4 si\avance4 si\obj\Debug\avance4 si.pdb
